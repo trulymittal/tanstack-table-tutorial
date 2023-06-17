@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Swades: We, the People (Our Country)",
+    "genre": "Drama",
+    "rating": 4.0
+  },
+  {
+    "id": 2,
+    "name": "Horns",
+    "genre": "Horror|Mystery",
+    "rating": 2.8
+  },
+  {
+    "id": 3,
+    "name": "Pyaar Impossible",
+    "genre": "Comedy|Romance",
+    "rating": 7.3
+  },
+  {
+    "id": 4,
+    "name": "Dark City",
+    "genre": "Crime|Drama|Film-Noir|Mystery",
+    "rating": 5.9
+  },
+  {
+    "id": 5,
+    "name": "Skin Game, The",
+    "genre": "Drama",
+    "rating": 5.9
+  },
+  {
+    "id": 6,
+    "name": "Man Push Cart",
+    "genre": "Drama",
+    "rating": 1.4
+  },
+  {
+    "id": 7,
+    "name": "Rapture-Palooza",
+    "genre": "Comedy|Fantasy",
+    "rating": 5.0
+  },
+  {
+    "id": 8,
+    "name": "Gleason",
+    "genre": "Drama",
+    "rating": 1.4
+  },
+  {
+    "id": 9,
+    "name": "Deck the Halls",
+    "genre": "Comedy",
+    "rating": 3.7
+  },
+  {
+    "id": 10,
+    "name": "Sand Sharks",
+    "genre": "Comedy|Horror|Sci-Fi|Thriller",
+    "rating": 4.1
+  },
+  {
+    "id": 11,
+    "name": "Plumm Summer, A",
+    "genre": "Adventure",
+    "rating": 5.8
+  },
+  {
+    "id": 12,
+    "name": "Roommates",
+    "genre": "Comedy|Drama",
+    "rating": 1.5
+  },
+  {
+    "id": 13,
+    "name": "Remember Sunday",
+    "genre": "Drama|Romance",
+    "rating": 7.0
+  },
+  {
+    "id": 14,
+    "name": "Regarding Henry",
+    "genre": "Drama",
+    "rating": 2.1
+  },
+  {
+    "id": 15,
+    "name": "Around the World Under the Sea",
+    "genre": "Action|Adventure",
+    "rating": 9.7
+  },
+  {
+    "id": 16,
+    "name": "Mr. Popper's Penguins",
+    "genre": "Comedy",
+    "rating": 1.1
+  },
+  {
+    "id": 17,
+    "name": "Pointe-Courte, La",
+    "genre": "Drama",
+    "rating": 5.1
+  },
+  {
+    "id": 18,
+    "name": "The Identical",
+    "genre": "Drama",
+    "rating": 4.4
+  },
+  {
+    "id": 19,
+    "name": "Tomorrow Night",
+    "genre": "Comedy|Drama",
+    "rating": 2.8
+  },
+  {
+    "id": 20,
+    "name": "Pi",
+    "genre": "Drama|Sci-Fi|Thriller",
+    "rating": 8.3
+  },
+  {
+    "id": 21,
+    "name": "Inspector Clouseau",
+    "genre": "Comedy|Crime|Mystery",
+    "rating": 7.7
+  },
+  {
+    "id": 22,
+    "name": "Black Hawk Down",
+    "genre": "Action|Drama|War",
+    "rating": 9.3
+  },
+  {
+    "id": 23,
+    "name": "Saint in London, The",
+    "genre": "Action|Comedy|Crime|Drama|Mystery",
+    "rating": 4.8
+  },
+  {
+    "id": 24,
+    "name": "In the Shadow of the Moon",
+    "genre": "Documentary",
+    "rating": 4.6
+  },
+  {
+    "id": 25,
+    "name": "More Dead Than Alive",
+    "genre": "Romance|Western",
+    "rating": 3.7
+  },
+  {
+    "id": 26,
+    "name": "Hard Sun",
+    "genre": "Drama|Romance",
+    "rating": 8.5
+  },
+  {
+    "id": 27,
+    "name": "Evil - In the Time of Heroes (To kako - Stin epohi ton iroon)",
+    "genre": "Adventure|Comedy|Horror",
+    "rating": 5.1
+  },
+  {
+    "id": 28,
+    "name": "Street Kings",
+    "genre": "Crime|Drama|Thriller",
+    "rating": 6.0
+  },
+  {
+    "id": 29,
+    "name": "Black Robe",
+    "genre": "Adventure|Drama",
+    "rating": 9.1
+  },
+  {
+    "id": 30,
+    "name": "Hand of Death, The (Shao Lin men)",
+    "genre": "Action",
+    "rating": 4.4
+  },
+  {
+    "id": 31,
+    "name": "Ledge, The",
+    "genre": "Drama|Thriller",
+    "rating": 5.9
+  },
+  {
+    "id": 32,
+    "name": "Wimbledon",
+    "genre": "Comedy|Romance",
+    "rating": 9.3
+  },
+  {
+    "id": 33,
+    "name": "35 Up",
+    "genre": "Documentary",
+    "rating": 4.8
+  },
+  {
+    "id": 34,
+    "name": "Rainmaker, The",
+    "genre": "Comedy|Romance|Thriller|Western",
+    "rating": 4.2
+  },
+  {
+    "id": 35,
+    "name": "I Hate Valentine's Day",
+    "genre": "Comedy|Romance",
+    "rating": 5.6
+  },
+  {
+    "id": 36,
+    "name": "Guy Named Joe, A",
+    "genre": "Drama|Fantasy|Romance|War",
+    "rating": 1.4
+  },
+  {
+    "id": 37,
+    "name": "Red Firecracker, Green Firecracker (Pao Da Shuang Deng)",
+    "genre": "Drama",
+    "rating": 5.1
+  },
+  {
+    "id": 38,
+    "name": "Diner",
+    "genre": "Comedy|Drama",
+    "rating": 4.3
+  },
+  {
+    "id": 39,
+    "name": "Love Affair, or the Case of the Missing Switchboard Operator (Ljubavni slucaj ili tragedija sluzbenice P.T.T.)",
+    "genre": "Drama",
+    "rating": 2.9
+  },
+  {
+    "id": 40,
+    "name": "Dark Alibi",
+    "genre": "Crime|Drama|Mystery|Thriller",
+    "rating": 9.7
+  },
+  {
+    "id": 41,
+    "name": "Igby Goes Down",
+    "genre": "Comedy|Drama",
+    "rating": 4.5
+  },
+  {
+    "id": 42,
+    "name": "Invisible Target (Naam yi boon sik)",
+    "genre": "Action|Crime",
+    "rating": 7.1
+  },
+  {
+    "id": 43,
+    "name": "Mabel's Married Life",
+    "genre": "Comedy",
+    "rating": 9.1
+  },
+  {
+    "id": 44,
+    "name": "Serpent and the Rainbow, The",
+    "genre": "Horror",
+    "rating": 4.5
+  },
+  {
+    "id": 45,
+    "name": "Another Man's Poison",
+    "genre": "Crime|Drama",
+    "rating": 3.6
+  },
+  {
+    "id": 46,
+    "name": "Westworld",
+    "genre": "Action|Sci-Fi|Thriller|Western",
+    "rating": 6.1
+  },
+  {
+    "id": 47,
+    "name": "Amelie (Fabuleux destin d'Amélie Poulain, Le)",
+    "genre": "Comedy|Romance",
+    "rating": 5.5
+  },
+  {
+    "id": 48,
+    "name": "Beverly Hills Chihuahua",
+    "genre": "Adventure|Children|Comedy",
+    "rating": 1.3
+  },
+  {
+    "id": 49,
+    "name": "Woman Who Wasn't There, The",
+    "genre": "Documentary",
+    "rating": 6.9
+  },
+  {
+    "id": 50,
+    "name": "No Regrets for Our Youth (Waga seishun ni kuinashi)",
+    "genre": "Drama",
+    "rating": 6.0
+  }
+]
